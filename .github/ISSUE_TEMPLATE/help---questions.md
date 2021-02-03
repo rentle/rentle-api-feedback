@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+<!-- Please note that this is not an official Rentle support channel - response times may vary and responses may not always be from the Rentle team. DO NOT share your API key or shop/login details here. You can chat with Rentle support by logging in to your shop at https://my.rentle.shop -->
+
 **What is the issue you are experiencing?**
 <!-- Clearly describe the issue you are experiencing. If it is linked to an existing bug report / feature request, link it here. -->
 
