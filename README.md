@@ -1,6 +1,6 @@
 # Rentle API Feedback
 
-A repository for collecting feedback, feature requests and bug reports related to the Rentle API. See the API documentation at https://api.rentle.io/docs
+A repository for collecting feedback, feature requests and bug reports related to the Rentle API. See the API documentation at https://api.rentle.io/admin
 
 
 ## Submitting an issue
@@ -16,4 +16,4 @@ Submit an issue by clicking one of the links below:
 
 ## Disclaimer
 
-This is not an official Rentle support channel - the Rentle team will respond to issues posted here on a best-effort basis but responses are not guaranteed and response times may vary. Please do not post your API keys, shop or login details here. If you need to chat with Rentle support, please log in to your shop at https://my.rentle.shop and contact support within the app.
+This is not an official Rentle support channel - the Rentle team will respond to issues posted here on a best-effort basis but responses are not guaranteed and response times may vary. Please do not post your API keys, shop or login details here. If you need to chat with Rentle support, please log in to your shop at https://admin.rentle.io and contact support within the app.
